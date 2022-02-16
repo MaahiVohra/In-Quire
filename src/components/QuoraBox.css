@@ -1,0 +1,9 @@
+.AddIcon, .addquestion{
+  background-color: #ffdd00;
+  border-radius: 50%;
+}
+.addquestion{
+  color: white;
+  font-size: large;
+  padding: 1em;
+}
